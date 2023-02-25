@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @HmmNoPls
+- 👋 Hi, I’m @HmmNoPls <br>
+<br>
+
 - 🎂 Age: >= 13 && <= 150
 - 🌱 MBTI Type: ISFP-A
 - 🌌 Location: Pluto, Solar System, Milky Way
+
 <br>
 
 - Cool thingy I guess: https://youtu.be/gfWI3Y7qcKo
@@ -11,6 +14,11 @@
 🅰️ The Rooms: A-000/A-1000 <br>
 <br>
 
-↗️ __Other Connections__
+↗️ __Connections__
+-  💬 Discord: HmmNoPls#7204
+-  🔴 Reddit: https://www.reddit.com/u/HmmNoPls
+-  ▶️ YouTube: https://www.youtube.com/@HmmNoPls
 -  🤖 Replit: https://replit.com/@HmmNo1
--  🌳 MC Bedrock: HmmNoPls; PeakConch851984 (Inactive)
+-  🌳 MC Bedrock: HmmNoPls <br>
+        PeakConch851984 (Inactive) <br>
+*And some more...*
