@@ -10,7 +10,7 @@
 - Cool thingy I guess: https://youtu.be/gfWI3Y7qcKo
 <br>
 
-🚪 The Hotel: 100/100 (Hotel+) <br>
+🚪 Main Game: 100/100 (Hotel+) <br>
 🅰️ The Rooms: A-000/A-1000 <br>
 <br>
 
