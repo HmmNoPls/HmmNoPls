@@ -15,7 +15,7 @@
 <br>
 
 ↗️ __Connections__
--  💬 Discord: HmmNoPls#7204
+-  💬 Discord: HmmNoPls#7204 (864412190010245121)
 -  🔴 Reddit: https://www.reddit.com/u/HmmNoPls
 -  ▶️ YouTube: https://www.youtube.com/@HmmNoPls
 -  🤖 Replit: https://replit.com/@HmmNo1
