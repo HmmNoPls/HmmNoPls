@@ -20,5 +20,5 @@
 -  ▶️ YouTube: https://www.youtube.com/@HmmNoPls
 -  🤖 Replit: https://replit.com/@HmmNo1
 -  🌳 MC Bedrock: HmmNoPls <br>
-        PeakConch851984 (Inactive) <br>
+        PeakConch851984 (Currently in use) <br>
 *And some more...*
