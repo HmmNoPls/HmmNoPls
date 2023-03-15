@@ -11,7 +11,7 @@
 <br>
 
 🚪 Main Game: 100/100 (Hotel+) <br>
-🅰️ The Rooms: A-000/A-1000 <br>
+🅰️ The Rooms: A-123/A-1000 (Died to A-90) <br>
 <br>
 
 ↗️ __Connections__
