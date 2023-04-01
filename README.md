@@ -12,6 +12,7 @@
 
 🚪 Main Game: 100/100 (Hotel+) <br>
 🅰️ The Rooms: A-123/A-1000 (Died to A-90) <br>
+📅 Super Hard Mode: 31/100 (Died to banana peel) <br>
 <br>
 
 ↗️ __Connections__
