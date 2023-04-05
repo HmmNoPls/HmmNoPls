@@ -12,7 +12,7 @@
 
 🚪 Main Game: 100/100 (Hotel+) <br>
 🅰️ The Rooms: A-123/A-1000 (Died to A-90) <br>
-📅 Super Hard Mode: 40/100 (Died to Seek) <br>
+📅 Super Hard Mode: 48/100 (Died to Rush) <br>
 <br>
 
 ↗️ __Connections__
