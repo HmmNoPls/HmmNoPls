@@ -4,6 +4,10 @@
 
 <br>
 
+- 〽️ Kind of got Acrophobia on 18 June 2023 (Probably temporary)
+
+<br>
+
 - 🚹 Gender: Male
 - 🎂 Age: >= 13 && <= 30
 - 🌱 MBTI: [ISFP-A](https://www.16personalities.com/isfp-personality) (Taken on ~March 2023)
@@ -26,6 +30,7 @@
     - 🖼️ Art (Both IRL & Digital)
     - 🤖 Machine Learning AI
     - 📃 HTML & CSS
+    - 🟦 TypeScript
     - 🧠 Psychology (Mental Disorders)
 
 <br>
