@@ -44,7 +44,7 @@
 - 🐈‍⬛ GitHub: [@HmmNoPls](https://github.com/HmmNoPls) (You Are Here)
 - 💬 Discord:
     - HmmNoPls#7204 (864412190010245121) (Main) (Temp. Locked Out)
-    - Dank the Second#6348 (899636141597286430) <br>
+    - @dankthesecond (Legacy: Dank the Second#6348) (899636141597286430) <br>
     *Note that I do have access to some other accounts that are not mine and I may use them*
 - ▶️ YouTube: [@HmmNoPls](https://www.youtube.com/@HmmNoPls)
 - 🔴 Reddit: [u/HmmNoPls](https://www.reddit.com/u/HmmNoPls) (Inactive)
