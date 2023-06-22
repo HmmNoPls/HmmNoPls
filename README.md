@@ -4,10 +4,6 @@
 
 <br>
 
-- 〽️ Kind of got Acrophobia on 18 June 2023 (Probably temporary)
-
-<br>
-
 - 🚹 Gender: Male
 - 🎂 Age: > 1 & < 30
 - 🌱 MBTI: [ISFP-A](https://www.16personalities.com/isfp-personality) (Taken on ~March 2023)
@@ -20,18 +16,19 @@
     - Easily Distracted, Frequent Daydreams, Extremely Indecisive, Often Underestimate Things *(By often I meant always)*
     - Likes to Procastinate
     - Probably has [Tourette Syndrome](https://www.cdc.gov/ncbddd/tourette/facts.html)
+    - Might also have ADHD (Self-Assessed)
 
 - 🔰 Things I'm a bit better at (Compared to other things I've done):
     - 🔢 Mathematics (Algebra Only)
-    - 🖥️ Programming (Common JavaScript) (Still sucks at [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions))
-    - 🖌️ Pixel Art (16x16)
+    - 🖥️ Programming (Common JavaScript)
+    - 🖌️ Pixel Art
  
-- 🌟 Other Things I'm Interested In (But probably will never try):
+- 🌟 Other Things I'm Interested In (But probably will never try)
     - 🎬 Content Creator (YouTube Only)
     - 🖼️ Art (Both IRL & Digital)
     - 📃 HTML & CSS
     - 🟦 TypeScript
-    - 🧠 Psychology (Primarily Mental Disorders)
+    - 🧠 Psychology (Mental Disorders)
 
 <br>
 
