@@ -4,6 +4,10 @@
 
 <br>
 
+- 🌎 Currently having Culture Shock (Help)
+
+<br>
+
 - 🚹 Gender: Male
 - 🎂 Age: > 1 & < 30
 - 🌱 MBTI: [ISFP-A](https://www.16personalities.com/isfp-personality) (Taken on ~March 2023)
