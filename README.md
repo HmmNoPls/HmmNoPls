@@ -16,11 +16,11 @@
 <br>
 
 - 🔅 Traits:
-    - Socially Anxious (Including Online), Self-Conscious, Somewhat Narcisisstic, People-Pleasing
+    - Socially Anxious (Including Online), Self-Conscious, Probably a People-Pleaser
     - Easily Distracted, Frequent Daydreams, Extremely Indecisive, Often Underestimate Things *(By often I meant always)*
     - Likes to Procastinate
     - Probably has [Tourette Syndrome](https://www.cdc.gov/ncbddd/tourette/facts.html)
-    - Might also have ADHD (Self-Assessed)
+    - Slightly have ADHD (Self-Assessed)
 
 - 🔰 Things I'm a bit better at (Compared to other things I've done):
     - 🔢 Mathematics (Algebra Only)
