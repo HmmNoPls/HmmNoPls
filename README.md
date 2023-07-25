@@ -41,7 +41,7 @@
     - @dankthesecond (Legacy: Dank the Second#6348) (899636141597286430) <br>
     *Note that I do have access to some other accounts that are not mine and I may use them*
 - ▶️ YouTube: [@HmmNoPls](https://www.youtube.com/@HmmNoPls)
-- 🔴 Reddit: [u/HmmNoPls](https://www.reddit.com/u/HmmNoPls) (Inactive)
+- 🔴 Reddit: [u/HmmNoPls](https://www.reddit.com/u/HmmNoPls) (Active until r/place ends)
 - 🤖 Replit: [@HmmNo1](https://replit.com/@HmmNo1) (Inactive)
 - 👾 Twitch: [HmmNoPls](https://m.twitch.tv/hmmnopls) (Literally the Deadest Account)
 - 🐱 Scratch: [HmmNoPls](https://scratch.mit.edu/users/HmmNoPls) (Why Not)
