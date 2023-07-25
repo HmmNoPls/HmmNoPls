@@ -1,10 +1,4 @@
-**⚠️ Computer is currently in Maintenance**
-
 - 👋 Hi, I’m HmmNoPls
-
-<br>
-
-- 🌎 Currently having Culture Shock (Help)
 
 <br>
 
@@ -43,7 +37,7 @@
 ---
 - 🐈‍⬛ GitHub: [@HmmNoPls](https://github.com/HmmNoPls) (You Are Here)
 - 💬 Discord:
-    - HmmNoPls#7204 (864412190010245121) (Main) (Temp. Locked Out)
+    - @hmmnopls (Legacy: HmmNoPls#7204) (864412190010245121) (Main)
     - @dankthesecond (Legacy: Dank the Second#6348) (899636141597286430) <br>
     *Note that I do have access to some other accounts that are not mine and I may use them*
 - ▶️ YouTube: [@HmmNoPls](https://www.youtube.com/@HmmNoPls)
@@ -53,8 +47,8 @@
 - 🐱 Scratch: [HmmNoPls](https://scratch.mit.edu/users/HmmNoPls) (Why Not)
 - 🌳 XBox:
     - HmmNoPls (Current)
-    - PeakConch851984 (Temp. Locked Out) <br>
+    - PeakConch851984 (Maybe Perm. Locked Out) <br>
     *And some others that have either been locked out or inactive for >4 years*
-- 🕹️ Roblox: [@HmmNoooPls](https://www.roblox.com/users/2934920830/profile) (Somewhat Inactive)
+- 🕹️ Roblox: [@HmmNoooPls](https://www.roblox.com/users/2934920830/profile) (Inactive)
 - 📩 Google: *undisclosed*@gmail.com
 - ☎️ Phone Number: 911
