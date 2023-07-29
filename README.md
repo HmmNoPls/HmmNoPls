@@ -2,9 +2,9 @@
 
 <br>
 
-- ✏️ Participated in [r/place](<https://www.reddit.com/r/place/>) 2022 & 2023
-    - 2022: Placed a few pixels then gave up
-    - 2023:
+- ✏️ Participated in [r/place](<https://www.reddit.com/r/place/>) 2022 & 2023 (By the way the All Pixels Placed Website is unencrypted)
+    - 2022: Placed 9 pixels then gave up ([All Pixels Placed](http://kisielo85.cba.pl/place/result.php?nick=HmmNoPls&year=22))
+    - 2023: Total of 169 pixels placed ([All Pixels Placed](http://kisielo85.cba.pl/place/result.php?nick=HmmNoPls&year=23))
         - First pixels placed after 1st expansion (On the Track of the [Metro Train line](https://2023.place-atlas.stefanocoding.me/#331/52/1/-379/0.721))
         - Mostly fixing random pixels, primarily in the bottom left [Windows Taskbar](https://2023.place-atlas.stefanocoding.me/#1352/205) & top right [Tasklist](https://2023.place-atlas.stefanocoding.me/#4309/218)
         - Helped in Typing [F*** Spez](https://2023.place-atlas.stefanocoding.me/#1925/218) after Final expansion
@@ -23,17 +23,17 @@
 
 - 🔅 Traits (All Self-Assessed):
     - Socially Awkward (Including Online), Self-Conscious, People-Pleasing
-    - Easily Distracted, Frequent Daydreams, Extremely Indecisive, Often Underestimate Things *(By often I meant always)*
+    - Easily Distracted, Frequent Daydreams, Extremely Indecisive
     - Likes to Procastinate
     - Might have ADHD and minor Tourette
     - Get feelings of Nostalgia incredibly easily
 
 - 🔰 Things I'm a bit better at (Compared to other things I've done):
-    - 🖥️ Programming (Common JavaScript)
-    - 🖌️ Pixel Art
+    - 🖥️ Programming (Common JavaScript) (Mostly making Discord Bots)
+    - 🖌️ Pixel Art (Still kind of Bad)
+    - 🌌 Astronomy (Random stuffs I watch on YouTube)
  
 - 🌟 Other Things I'm Interested In (But probably will never try)
-    - 🎬 YouTube Content Creator
     - 🖼️ Digital Art
     - 📃 HTML & CSS
     - 🟦 TypeScript
@@ -53,10 +53,10 @@
     - @dankthesecond (Legacy: Dank the Second#6348) (899636141597286430) <br>
     *Note that I do have access to some other accounts that are not mine and I may use them*
 - ▶️ YouTube: [@HmmNoPls](https://www.youtube.com/@HmmNoPls)
-- 🔴 Reddit: [u/HmmNoPls](https://www.reddit.com/u/HmmNoPls) (Still checking new Posts in [r/place](https://www.reddit.com/r/place))
+- 🔴 Reddit: [u/HmmNoPls](https://www.reddit.com/u/HmmNoPls) (Inactive)
 - 🤖 Replit: [@HmmNo1](https://replit.com/@HmmNo1) (Inactive)
 - 🎮 Itch.io: [HmmNoPls](https://hmmnopls.itch.io/) (What is this even for)
-- 👾 Twitch: [HmmNoPls](https://m.twitch.tv/hmmnopls) (Literally the Deadest Account)
+- 👾 Twitch: [HmmNoPls](https://m.twitch.tv/hmmnopls) (Incredibly Dead)
 - 🐱 Scratch: [HmmNoPls](https://scratch.mit.edu/users/HmmNoPls) (Why Not)
 - 🌳 XBox:
     - HmmNoPls (Current)
