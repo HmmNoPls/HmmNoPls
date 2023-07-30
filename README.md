@@ -16,7 +16,7 @@
 
 - 🚹 Gender: Male
 - 🎂 Age: > 1 & < 30
-- 🌱 MBTI: [ISFP-A](https://www.16personalities.com/isfp-personality) (Taken on ~March 2023)
+- 🌱 MBTI: [ISTP-T](https://www.16personalities.com/istp-personality) (Taken on 30th July 2023)
 - 🌌 Address: Pluto, Solar System, Milky Way
 
 <br>
