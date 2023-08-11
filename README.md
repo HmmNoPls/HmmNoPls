@@ -25,7 +25,7 @@
     - Socially Awkward (Including Online), Self-Conscious, People-Pleasing
     - Easily Distracted, Frequent Daydreams, Extremely Indecisive
     - Likes to Procastinate
-    - Might have ADHD and minor Tourette
+    - Might have ADHD
     - Get feelings of Nostalgia incredibly easily
 
 - 🔰 Things I'm a bit better at (Compared to other things I've done):
