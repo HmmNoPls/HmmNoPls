@@ -2,6 +2,27 @@
 
 <br>
 
+- 🚹 Gender: Male
+- 🎂 Age: > 1 & < 30
+- 🌱 MBTI: [ISTP-T](https://www.16personalities.com/istp-personality) (Taken on 30th July 2023)
+- 🌌 Address: Pluto, Solar System, Milky Way
+
+<br>
+
+- 🔅 Traits (All Self-Assessed):
+    - Socially Awkward (Including Online), Self-Conscious
+    - Easily Distracted, Frequent Daydreams, Extremely Indecisive
+    - Likes to Procastinate
+    - Has some symptoms of ADHD
+    - Gets feelings of nostalgia very easily
+
+- 🔰 Things I'm a bit better at (Compared to other things I've done):
+    - 🖥️ Programming (Common JavaScript) (Mostly making Discord Bots)
+    - 🖌️ Pixel Art (Still kind of Bad)
+    - 🗑️ Being bad
+
+<br>
+
 - ✏️ Participated in [r/place](<https://www.reddit.com/r/place/>) 2022 & 2023 (By the way the All Pixels Placed Website is unencrypted)
     - 2022: Placed 9 pixels then gave up ([All Pixels Placed](http://kisielo85.cba.pl/place/result.php?nick=HmmNoPls&year=22))
     - 2023: Total of 169 pixels placed ([All Pixels Placed](http://kisielo85.cba.pl/place/result.php?nick=HmmNoPls&year=23))
@@ -11,35 +32,6 @@
         - Helped in fixing [Technoblade Art](https://2023.place-atlas.stefanocoding.me/#359/234), Top Left of [F*** Spez](https://2023.place-atlas.stefanocoding.me/#1925/218), [Ukraine Flag](https://2023.place-atlas.stefanocoding.me/#20/251) & [Perry The Platypus](https://2023.place-atlas.stefanocoding.me/#854/251) during Bot Attacks shortly before Greyout
         - Was at Greyout/Whiteout & Helped in Typing both the smaller F*** Spez (Was Abandoned) & the [main one](https://2023.place-atlas.stefanocoding.me/#3158/257)
         - Was fun while it lasted :)
-
-<br>
-
-- 🚹 Gender: Male
-- 🎂 Age: > 1 & < 30
-- 🌱 MBTI: [ISTP-T](https://www.16personalities.com/istp-personality) (Taken on 30th July 2023)
-- 🌌 Address: Pluto, Solar System, Milky Way
-
-<br>
-
-- 🔅 Traits (All Self-Assessed):
-    - Socially Awkward (Including Online), Self-Conscious, People-Pleasing
-    - Easily Distracted, Frequent Daydreams, Extremely Indecisive
-    - Likes to Procastinate
-    - Might have ADHD
-    - Get feelings of Nostalgia incredibly easily
-
-- 🔰 Things I'm a bit better at (Compared to other things I've done):
-    - 🖥️ Programming (Common JavaScript) (Mostly making Discord Bots)
-    - 🖌️ Pixel Art (Still kind of Bad)
-    - 🌌 Astronomy (Random stuffs I watch on YouTube)
- 
-- 🌟 Other Things I'm Interested In (But probably will never try)
-    - 🖼️ Digital Art
-    - 📃 HTML & CSS
-    - 🟦 TypeScript
-    - 🧠 Psychology
-
-<br>
 
 - ▶️ Cool Stuff: https://youtu.be/gfWI3Y7qcKo
 
@@ -63,5 +55,7 @@
     - PeakConch851984 (Maybe Perm. Locked Out) <br>
     *And some others that have either been locked out or inactive for >4 years*
 - 🕹️ Roblox: [@HmmNoooPls](https://www.roblox.com/users/2934920830/profile) (Inactive)
-- 📩 Google: *undisclosed*@gmail.com
-- ☎️ Phone Number: 911
+- 📩 Mail: b87pen0vu@mozmail.com (Masked EMail)
+- ☎️ Phone Number: 911 <br>
+
+*+1 more*
