@@ -12,7 +12,7 @@
 - 🔅 Traits (All Self-Assessed):
     - Socially Awkward (Including Online), Self-Conscious
     - Easily Distracted, Frequent Daydreams, Extremely Indecisive
-    - Likes to Procastinate
+    - Likes to Procrastinate
     - Has some symptoms of ADHD
     - Gets feelings of nostalgia very easily
 
