@@ -16,6 +16,10 @@
     - Has some symptoms of ADHD
     - Gets feelings of nostalgia very easily
 
+- 🍊 Most Favorite Things:
+    - 🎨 Color: Light Blue
+    - 🎄 Season: Winter
+
 - 🔰 Things I'm a bit better at (Compared to other things I've done):
     - 🖥️ Programming (Common JavaScript) (Mostly making Discord Bots)
     - 🖌️ Pixel Art (Still kind of Bad)
@@ -55,7 +59,7 @@
     - PeakConch851984 (Maybe Perm. Locked Out) <br>
     *And some others that have either been locked out or inactive for >4 years*
 - 🕹️ Roblox: [@HmmNoooPls](https://www.roblox.com/users/2934920830/profile) (Inactive)
-- 📩 Mail: b87pen0vu@mozmail.com (Masked EMail)
+- 📩 EMail: b87pen0vu@mozmail.com (Masked)
 - ☎️ Phone Number: 911 <br>
 
 *+1 more*
