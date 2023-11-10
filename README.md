@@ -3,31 +3,45 @@
 <br>
 
 - 🚹 Gender: Male
-- 🎂 Age: > 1 & < 30
+- 📅 Date Of Birth: --/--/(1900 < x < 2025) (DD/MM/YYYY)
 - 🌱 MBTI: [ISTP-T](https://www.16personalities.com/istp-personality) (Taken on 30th July 2023)
-- 🌌 Address: Pluto, Solar System, Milky Way
+- 🏠 Currently staying on Antartica (Very real)
 
 <br>
 
-- 🔅 Traits (All Self-Assessed):
-    - Socially Awkward (Including Online), Self-Conscious
-    - Easily Distracted, Frequent Daydreams, Extremely Indecisive
-    - Likes to Procrastinate
-    - Has some symptoms of ADHD
+- 🔅 Traits:
+    - Socially awkward (Including Online), self-conscious
+    - Easily distracted, frequently daydreams, is extremely indecisive
+    - Really likes to procrastinate
+    - Can't really take criticisms, even the slightest ones
     - Gets feelings of nostalgia very easily
 
-- 🍊 Most Favorite Things:
+- 🍊 Most Favorite Things (Idk why I put it here):
     - 🎨 Color: Light Blue
     - 🎄 Season: Winter
+    - 📺 Hobby: Watching YouTube during free times
 
 - 🔰 Things I'm a bit better at (Compared to other things I've done):
-    - 🖥️ Programming (Common JavaScript) (Mostly making Discord Bots)
+    - 🖥️ Programming
+        - Since ~1/8/2021
+        - Self-taught
+        - Common JavaScript, mostly making Discord Bots
+        - Started by copying pasting code and then figuring out what each parts did instead of following tutorials or reading docs
+        - Doesn't really code anymore, but still remembers most stuffs
     - 🖌️ Pixel Art (Still kind of Bad)
+        - Since ~14/11/2021
+        - 64x64 most of the times
+        - Stopped for quite a long time now, maybe still have the skills tho
     - 🗑️ Being bad
+
+ - ✨ Stuffs I'm (somewhat) trying out:
+    - 🌐 Web Development (HTML, CSS & JS)
+    - ⚡ Arduino stuffs (Currently following [this tutorial](https://www.youtube.com/watch?v=DPqiIzK97K0))
+    - 🖼️ Digital Art & Animation
 
 <br>
 
-- ✏️ Participated in [r/place](<https://www.reddit.com/r/place/>) 2022 & 2023 (By the way the All Pixels Placed Website is unencrypted)
+- ✏️ Participated in [r/place](<https://www.reddit.com/r/place/>) 2022 & 2023
     - 2022: Placed 9 pixels then gave up ([All Pixels Placed](http://kisielo85.cba.pl/place/result.php?nick=HmmNoPls&year=22))
     - 2023: Total of 169 pixels placed ([All Pixels Placed](http://kisielo85.cba.pl/place/result.php?nick=HmmNoPls&year=23))
         - First pixels placed after 1st expansion (On the Track of the [Metro Train line](https://2023.place-atlas.stefanocoding.me/#331/52/1/-379/0.721))
@@ -43,7 +57,7 @@
 
 ↗️ __All Connections__
 ---
-- 🐈‍⬛ GitHub: [@HmmNoPls](https://github.com/HmmNoPls) (You Are Here)
+- 🐈‍⬛ GitHub: [@HmmNoPls](https://github.com/HmmNoPls) (You Are Here) (Inactive)
 - 💬 Discord:
     - @hmmnopls (Legacy: HmmNoPls#7204) (864412190010245121) (Main)
     - @dankthesecond (Legacy: Dank the Second#6348) (899636141597286430) <br>
@@ -51,14 +65,14 @@
 - ▶️ YouTube: [@HmmNoPls](https://www.youtube.com/@HmmNoPls)
 - 🔴 Reddit: [u/HmmNoPls](https://www.reddit.com/u/HmmNoPls) (Inactive)
 - 🤖 Replit: [@HmmNo1](https://replit.com/@HmmNo1) (Inactive)
-- 🎮 Itch.io: [HmmNoPls](https://hmmnopls.itch.io/) (What is this even for)
+- 🎮 Itch.io: [HmmNoPls](https://hmmnopls.itch.io/) (Inactive)
 - 👾 Twitch: [HmmNoPls](https://m.twitch.tv/hmmnopls) (Incredibly Dead)
-- 🐱 Scratch: [HmmNoPls](https://scratch.mit.edu/users/HmmNoPls) (Why Not)
-- 🌳 XBox:
-    - HmmNoPls (Current)
-    - PeakConch851984 (Maybe Perm. Locked Out) <br>
+- 🐱 Scratch: [HmmNoPls](https://scratch.mit.edu/users/HmmNoPls) (Inactive)
+- 🌳 XBox (Inactive):
+    - HmmNoPls
+    - PeakConch851984 (Current) <br>
     *And some others that have either been locked out or inactive for >4 years*
-- 🕹️ Roblox: [@HmmNoooPls](https://www.roblox.com/users/2934920830/profile) (Inactive)
+- 🕹️ Roblox: [@HmmNoooPls](https://www.roblox.com/users/2934920830/profile)
 - 📩 EMail: b87pen0vu@mozmail.com (Masked)
 - ☎️ Phone Number: 911 <br>
 
